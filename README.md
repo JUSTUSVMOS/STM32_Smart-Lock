@@ -36,8 +36,8 @@ It integrates **RFID (MFRC522), Bluetooth (HC-05), Keypad input, LCD1602 I2C dis
 
 ## 📊 System Architecture
 
-*(Insert image link in GitHub:  
-`![System Architecture](images/system_arch.png)`)*
+<img width="1413" height="900" alt="螢幕擷取畫面 2025-11-24 232445" src="https://github.com/user-attachments/assets/d31a9420-4d41-4925-b80e-c34c64d438f9" />
+
 
 ---
 
