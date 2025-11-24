@@ -1,0 +1,17 @@
+../Core/Src/lcd1602_i2c.c:11:6:lcd1602_Init	1
+../Core/Src/lcd1602_i2c.c:63:6:lcd1602_Print	2
+../Core/Src/lcd1602_i2c.c:74:6:lcd1602_SetCursor	1
+../Core/Src/lcd1602_i2c.c:83:6:lcd1602_Clear	1
+../Core/Src/lcd1602_i2c.c:92:6:lcd1602_Home	1
+../Core/Src/lcd1602_i2c.c:101:6:lcd1602_Display	4
+../Core/Src/lcd1602_i2c.c:116:6:lcd1602_Cursor	4
+../Core/Src/lcd1602_i2c.c:131:6:lcd1602_Blink	4
+../Core/Src/lcd1602_i2c.c:146:6:lcd1602_LED	1
+../Core/Src/lcd1602_i2c.c:153:6:lcd1602_DisplayShift	2
+../Core/Src/lcd1602_i2c.c:163:6:lcd1602_CursorShift	2
+../Core/Src/lcd1602_i2c.c:176:6:RS_Pin	2
+../Core/Src/lcd1602_i2c.c:186:6:RW_Pin	2
+../Core/Src/lcd1602_i2c.c:196:6:E_Pin	2
+../Core/Src/lcd1602_i2c.c:206:9:CtrlPinsRetrieve	1
+../Core/Src/lcd1602_i2c.c:211:6:Instruction_Write	1
+../Core/Src/lcd1602_i2c.c:223:6:Data_Write	1

@@ -1,0 +1,23 @@
+FreeRTOS/queue.o: ../FreeRTOS/queue.c \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/FreeRTOS.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/FreeRTOSConfig.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/projdefs.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/portable.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/deprecated_definitions.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/portable/ARM_CM4F/portmacro.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/mpu_wrappers.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/task.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/list.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/queue.h \
+ D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/task.h
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/FreeRTOS.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/FreeRTOSConfig.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/projdefs.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/portable.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/deprecated_definitions.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/portable/ARM_CM4F/portmacro.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/mpu_wrappers.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/task.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/list.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/queue.h:
+D:/STM32CubeIDE/workspace_1.14.1/Project0/FreeRTOS/include/task.h:

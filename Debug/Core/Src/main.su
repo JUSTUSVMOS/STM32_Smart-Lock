@@ -1,0 +1,17 @@
+../Core/Src/main.c:140:6:debug_print_carddb_codes	80	static
+../Core/Src/main.c:110:5:main	320	static
+../Core/Src/main.c:211:6:SystemClock_Config	88	static
+../Core/Src/main.c:258:17:Nfc_AddCard	16	static
+../Core/Src/main.c:263:17:Nfc_DeleteCard	16	static
+../Core/Src/main.c:268:6:Nfc_IsAuthorized	16	static
+../Core/Src/main.c:273:6:RC522_TestLoop	176	static
+../Core/Src/main.c:312:13:read_keypad	16	static
+../Core/Src/main.c:339:6:vKeypadTask	112	static
+../Core/Src/main.c:538:6:vNfcTask	296	static
+../Core/Src/main.c:759:6:HAL_UART_RxCpltCallback	24	static,ignoring_inline_asm
+../Core/Src/main.c:777:6:I2C_ScanBus	48	static
+../Core/Src/main.c:801:6:vBtTask	40	static
+../Core/Src/main.c:873:6:vLcdTask	56	static
+../Core/Src/main.c:894:6:vStateTask	88	static
+../Core/Src/main.c:972:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:989:6:Error_Handler	4	static,ignoring_inline_asm

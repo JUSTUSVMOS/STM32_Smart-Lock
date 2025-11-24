@@ -1,0 +1,17 @@
+../Core/Src/main.c:140:6:debug_print_carddb_codes	1
+../Core/Src/main.c:110:5:main	6
+../Core/Src/main.c:211:6:SystemClock_Config	3
+../Core/Src/main.c:258:17:Nfc_AddCard	1
+../Core/Src/main.c:263:17:Nfc_DeleteCard	1
+../Core/Src/main.c:268:6:Nfc_IsAuthorized	1
+../Core/Src/main.c:273:6:RC522_TestLoop	3
+../Core/Src/main.c:312:13:read_keypad	6
+../Core/Src/main.c:339:6:vKeypadTask	20
+../Core/Src/main.c:538:6:vNfcTask	10
+../Core/Src/main.c:759:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:777:6:I2C_ScanBus	3
+../Core/Src/main.c:801:6:vBtTask	12
+../Core/Src/main.c:873:6:vLcdTask	2
+../Core/Src/main.c:894:6:vStateTask	4
+../Core/Src/main.c:972:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:989:6:Error_Handler	1
